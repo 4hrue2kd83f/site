@@ -13,6 +13,17 @@ a:active{
   bacground: green;
 }
 
+button{
+  display: block;
+  padding: 7px;
+}
+button:hover{
+  background: rgb(20, 20, 20);
+}
+button:active{
+  bacground: green;
+}
+
 h1{
   text-align: CENTER;
 }
